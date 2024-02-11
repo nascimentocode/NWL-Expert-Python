@@ -1,6 +1,6 @@
 from typing import Dict
 
-class HttpRquest:
+class HttpRequest:
     def __init__(
             self,
             header: Dict = None,
